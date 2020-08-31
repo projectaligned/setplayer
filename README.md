@@ -1,5 +1,5 @@
 # setplayer
-An AI that can play online [set](https://en.wikipedia.org/wiki/Set_(card_game)).
+An online [set](https://en.wikipedia.org/wiki/Set_(card_game)) solver. 
 
 ![set](/set.png)
 
