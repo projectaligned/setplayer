@@ -1,6 +1,8 @@
 # setplayer
 An AI that can play online [set](https://en.wikipedia.org/wiki/Set_(card_game)).
 
+[set](/set.png)
+
 This AI can play single player and multiplayer set on [smart-games.org](https://smart-games.org/en/set/open_cards).
 The solver itself was easy to build and detecting matches just needed modular arithmetic.
 It was much harder to to manage information transfer to and from the website. 
